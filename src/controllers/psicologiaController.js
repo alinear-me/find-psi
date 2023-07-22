@@ -40,7 +40,8 @@ const findByLocation = async (req, res) => {
             }
         })
 
-        const findLocation = await PsicologiaModel.findByLocation(req.params.location);
+        const {location} = req.query
+        const findLocation = await PsicologiaModel.find({location: location});
         res.status(200).json(findLocation);
     } catch (error) {
         console.error(error);
@@ -63,7 +64,8 @@ const findByService = async (req, res) => {
             }
         })
 
-        const findService = await PsicologiaModel.findByService(req.params.service);
+        const {service} = req.query
+        const findService = await PsicologiaModel.find({service: service});
         res.status(200).json(findService);
     } catch (error) {
         console.error(error);
@@ -136,7 +138,7 @@ const updatePsicologo = async (req, res) => {
             location,
             service,
             description,
-        } = res.body;
+        } = req.body;
         const updatePsicologo = await PsicologiaModel.findByIdAndUpdate(req.params.id, {
             name,
             institution,
@@ -147,8 +149,8 @@ const updatePsicologo = async (req, res) => {
             description,
         });
 
-        res.status(200).json({message: "Psicólogo atualizado"});
-    } catch {
+        res.status(200).json({message: "Psicólogo atualizado", updatePsicologo});
+    } catch (error) {
         console.error(error);
         res.status(500).json({message: error.message});
     };
@@ -172,8 +174,8 @@ const deletePsicologo = async (req, res) => {
         }) 
 
         const { id } = req.params;
-        const deletePsicologo = await PsicologiaModel.findByIdAnddelete(id);
-        const message = `Psicólogo com o id ${deletePsicologo.name} foi deletado`;
+        const deletePsicologo = await PsicologiaModel.findByIdAndDelete(id);
+        const message = `Psicólogo com o id de ${deletePsicologo.name} foi deletado`;
         res.status(200).json({ message });
     } catch (error) {
         console.error(error);
