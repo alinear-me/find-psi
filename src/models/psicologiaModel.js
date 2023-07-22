@@ -10,7 +10,7 @@ const PsicologiaSchema = mongoose.Schema(
             type: String,
             required: true,
         },
-        instituton: {
+        institution: {
             type: String,
             required: true,
         },

@@ -1,7 +1,7 @@
 require("dotenv").config(); //carregando as configurações para poder manipular od dados
 const express = require("express"); //importando o express
 const cors = require("cors");
-const mongoose = require("mongoose");
+const mongoose = require("./database/dbConnect");
 const psicologiaRoutes = require("./routes/psicologiaRoutes");
 
 const app = express();
