@@ -33,16 +33,16 @@ Dependências:
 
 ### Instalações
 
-`# Clonar o repositório`
+# Clonar o repositório
 `$ git clone https://github.com/alinear-me/find-psi#aruitetura`
 
-`# Entrar na pasta do repositório`
+# Entrar na pasta do repositório
 `$ cd on22-b3-projeto-final`
 
-`# Instalar as dependências`
+# Instalar as dependências
 `$ npm install`
 
-`# Executar o servidor`
+# Executar o servidor
 `$ npm start`
 
 ### Rotas
