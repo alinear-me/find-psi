@@ -24,8 +24,9 @@ O projeto visa o mapeamento de atendimento psicológico a preços acessíveis e/
 
 ## Arquitetura MVC
 
+ˋˋˋ 
  📁 ON22-B3-PROJETO-FINAL
-   |
+   |ˋˋˋ 
    |- 📁 find-psi
    |-   📁 src
    |   |
@@ -53,6 +54,6 @@ O projeto visa o mapeamento de atendimento psicológico a preços acessíveis e/
    |- 📑 README.md
    |- 📑 server.js
    |- 📑 swagger.js
-
+ˋˋˋ 
 
 ## Autor
