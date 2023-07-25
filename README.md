@@ -7,53 +7,32 @@ Projeto de conclusão do curso de Desenvolvimento Back-end com B3 Social | On22 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#instalacoes">Instalações</a> • 
  <a href="#routes">Rotas</a> •
- <a href="#aruitetura">Arquitetura MVC</a> • 
  <a href="#autor">Autor</a>
 </p>
 
-## Objetivo
+### Objetivo
 O projeto visa o mapeamento de atendimento psicológico a preços acessíveis e/ou gratuitos na cidade de São Paulo.
 
-## Descrição
+### Descrição
 
-## Tecnologias
+### Tecnologias
 
-## Instalações
+[JavaScript](https://www.javascript.com/) | [Node.js](https://nodejs.org/en) | [Git](https://git-scm.com/) | [VSCode](https://code.visualstudio.com/) | [Mongodb](https://www.mongodb.com/pt-br) | [Postman](https://documenter.getpostman.com/view/16821311/UVRAHSEo)
 
-## Rotas
+Dependências:
 
-## Arquitetura MVC
+[nodemon](https://www.npmjs.com/package/nodemon)
+[bcrypt](https://www.npmjs.com/package/bcrypt)
+[cors](https://www.npmjs.com/package/cors)
+[dotenv](https://www.npmjs.com/package/dotenv)
+[express](https://www.npmjs.com/package/express)
+[jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
+[mongoose](https://www.npmjs.com/package/mongoose)
+[swagger-autogen](https://www.npmjs.com/package/swagger-autogen)
+[swagger-ui-express](https://www.npmjs.com/package/swagger-ui-express)
 
-ˋˋˋ 
- 📁 ON22-B3-PROJETO-FINAL
-   |ˋˋˋ 
-   |- 📁 find-psi
-   |-   📁 src
-   |   |
-   |   |- 📁 controllers
-   |       |- 📑 psicologiaController.js
-   |
-   |   |- 📁 database
-   |       |- 📑 dbConect.js
-   |
-   |   |- 📁 models
-   |       |- 📑 psicologiaModel.js
-   |
-   |    |- 📁 routes
-   |       |- 📑 psicologiaRoutes.js
-   |
-   |    |- 📑 app.js
-   |
-   |- 📁 swagger
-   |   |- 📑 swagger_output.json
-   |
-   |- 📑 .env
-   |- 📑 .gitignore
-   |- 📑 package-lock.json
-   |- 📑 package.json
-   |- 📑 README.md
-   |- 📑 server.js
-   |- 📑 swagger.js
-ˋˋˋ 
+### Instalações
 
-## Autor
+### Rotas
+
+### Autor
