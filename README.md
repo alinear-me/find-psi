@@ -17,7 +17,7 @@ Aplicação disponível [aqui](https://find-psi.onrender.com/find-psi-documentac
 
 ## Objetivo
 
-Uma pesquisa realizada no Brasil e em mais 29 países, revela "dados alarmantes sobre a piora da saúde mental das pessoas ao longo, e após, a pandemia. De acordo com o Instituto Ipsos, a terceira maior empresa de pesquisa do mundo, 53% das pessoas entrevistadas aqui no país, afirmaram que, tiveram algum comprometimento psicológico desde o surgimento da COVID-19. Um estudo feito pela Associação Brasileira de Psicologia da Saúde revelou que, mais de 80% dos psicólogos tiveram aumento de demanda de pacientes durante a pandemia. É possível observar também que as populações de baixa renda são as mais afetadas pela falta de recursos financeiros para ter um atendimento adequeado.
+Uma pesquisa realizada no Brasil e em mais 29 países, revela "dados alarmantes sobre a piora da saúde mental das pessoas ao longo, e após, a pandemia". De acordo com o Instituto Ipsos, a terceira maior empresa de pesquisa do mundo, 53% das pessoas entrevistadas aqui no país, afirmaram que tiveram algum comprometimento psicológico desde o surgimento da COVID-19. Um estudo feito pela Associação Brasileira de Psicologia da Saúde revelou que, mais de 80% dos psicólogos tiveram aumento de demanda de pacientes durante a pandemia. É possível observar também que as populações de baixa renda são as mais afetadas pela falta de recursos financeiros para ter um atendimento de psicoterapia adequeado.
 Nesse sentido, o projeto "Find-Psi | Encontre Psi" visa o mapeamento de atendimento psicológico a preços acessíveis e/ou gratuitos na cidade de São Paulo.
 
 ---
