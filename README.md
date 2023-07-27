@@ -5,6 +5,7 @@ Projeto de conclusão do curso de Desenvolvimento Back-end com B3 Social | On22 
 
 Aplicação disponível [aqui](https://find-psi.onrender.com/find-psi-documentacao/) 💜
 
+--- 
  <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#decreption">Descrição</a> • 
@@ -13,9 +14,12 @@ Aplicação disponível [aqui](https://find-psi.onrender.com/find-psi-documentac
  <a href="#routes">Rotas</a> •
  <a href="#autor">Autor</a>
 </p>
+---
 
 ## Objetivo
 O projeto visa o mapeamento de atendimento psicológico a preços acessíveis e/ou gratuitos na cidade de São Paulo.
+
+---
 
 ### Funcionalidades
 
@@ -39,15 +43,15 @@ O projeto visa o mapeamento de atendimento psicológico a preços acessíveis e/
 
 
 Dependências:
-[nodemon](https://www.npmjs.com/package/nodemon) 
-[bcrypt](https://www.npmjs.com/package/bcrypt) 
-[cors](https://www.npmjs.com/package/cors) 
-[dotenv](https://www.npmjs.com/package/dotenv) 
-[express](https://www.npmjs.com/package/express) 
-[jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) 
-[mongoose](https://www.npmjs.com/package/mongoose) 
-[swagger-autogen](https://www.npmjs.com/package/swagger-autogen) 
-[swagger-ui-express](https://www.npmjs.com/package/swagger-ui-express) 
++ [nodemon](https://www.npmjs.com/package/nodemon) 
++ [bcrypt](https://www.npmjs.com/package/bcrypt) 
++ [cors](https://www.npmjs.com/package/cors) 
++ [dotenv](https://www.npmjs.com/package/dotenv) 
++ [express](https://www.npmjs.com/package/express) 
++ [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) 
++ [mongoose](https://www.npmjs.com/package/mongoose) 
++ [swagger-autogen](https://www.npmjs.com/package/swagger-autogen) 
++ [swagger-ui-express](https://www.npmjs.com/package/swagger-ui-express) 
 
 ### Instalações
 
@@ -76,10 +80,11 @@ Caso esteja utilizando outro gerenciador de pacotes apenas altere o npm para seu
 | PATCH/:id    | Atualiza cadastro existente |
 | DELETE/:id   | Deleta um cadastro          |
 
+---
 ### Autor
 
-========================================================================
+---
 
-<footer>
+<center><footer>
   Desenvolvido com 💜
-</footer>
+</footer></center>
