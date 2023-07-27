@@ -67,15 +67,19 @@ Caso esteja utilizando outro gerenciador de pacotes apenas altere o npm para seu
 
 ### Rotas/Endpoints
 
-Rotas        | 
----------    | ------
-GET/all      | Lista todos os cadastros
-GET/location | Busca por região
-GET/service  | Busca por serviço oferecido
-POST/add     | Faz um novo cadastro
-PATCH/:id    | Atualiza cadastro existente
-DELETE/:id   | Deleta um cadastro 
+| Rotas        |                             |
+| ---------    | ------                      |  
+| GET/all      | Lista todos os cadastros    |
+| GET/location | Busca por região            |
+| GET/service  | Busca por serviço oferecido |
+| POST/add     | Faz um novo cadastro        |
+| PATCH/:id    | Atualiza cadastro existente |
+| DELETE/:id   | Deleta um cadastro          |
 
 ### Autor
 
-<footer>Desenvolvido com 💜</footer>
+========================================================================
+
+<footer>
+  Desenvolvido com 💜
+</footer>
