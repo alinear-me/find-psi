@@ -5,15 +5,14 @@ Projeto de conclusão do curso de Desenvolvimento Back-end com B3 Social | On22 
 
 Aplicação disponível [aqui](https://find-psi.onrender.com/find-psi-documentacao/) 💜
 
---- 
  <p align="center">
  <a href="#objetivo">Objetivo</a> •
- <a href="#decreption">Descrição</a> • 
+ <a href="#funcionalidades">Funcionalidades</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#instalacoes">Instalações</a> • 
  <a href="#routes">Rotas</a> •
- <a href="#autor">Autor</a>
 </p>
+
 ---
 
 ## Objetivo
@@ -31,6 +30,8 @@ O projeto visa o mapeamento de atendimento psicológico a preços acessíveis e/
 - [x] A API deve permitir a atualização cadastral dos psicólogos já cadastrados através do id autogerado
 - [x] A API deve permitir a exclusão de um cadastro através do id autogerado
 
+
+---
 
 ### Tecnologias e dependências
 
@@ -53,6 +54,8 @@ Dependências:
 + [swagger-autogen](https://www.npmjs.com/package/swagger-autogen) 
 + [swagger-ui-express](https://www.npmjs.com/package/swagger-ui-express) 
 
+--- 
+
 ### Instalações
 
 ```javascript
@@ -69,6 +72,8 @@ $ npm start
 ```
 Caso esteja utilizando outro gerenciador de pacotes apenas altere o npm para seu respectivo instalador.
 
+---
+
 ### Rotas/Endpoints
 
 | Rotas        |                             |
@@ -81,10 +86,7 @@ Caso esteja utilizando outro gerenciador de pacotes apenas altere o npm para seu
 | DELETE/:id   | Deleta um cadastro          |
 
 ---
-### Autor
 
----
-
-<center><footer>
+<p align="center">
   Desenvolvido com 💜
-</footer></center>
+</p>
