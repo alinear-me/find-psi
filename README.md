@@ -1,5 +1,8 @@
-![](../imgpsico.jpg"disponível em freepik")
+<p float="center">
 
+ <img src="https://as1.ftcdn.net/v2/jpg/04/22/79/26/1000_F_422792693_9Y0ItAA1HJPS4WBW9oExd1g6bsFKDGhC.jpg width="380" />
+
+</p>
 # Projeto Final | Find-Psi API | Encontre Psi - {Reprograma}  
 Projeto de conclusão do curso de Desenvolvimento Back-end com B3 Social | On22 da [{reprograma}](https://reprograma.com.br/)
 
