@@ -19,7 +19,6 @@ O projeto visa o mapeamento de atendimento psicológico a preços acessíveis e/
 
 ### Funcionalidades
 
-```[tasklist]
 
 - [x] A Schema dos psicólogos cadastrados deverá conter: id (autogerado), nome, instituição, email, endereço, região de atendimento (local), serviço oferecido e descrição sobre preços. 
 - [x] A API deve permitir o cadastro de novos psicólogos
@@ -27,7 +26,7 @@ O projeto visa o mapeamento de atendimento psicológico a preços acessíveis e/
 - [x] A API deve permitir a busca por tipo de serviço desejado
 - [x] A API deve permitir a atualização cadastral dos psicólogos já cadastrados através do id autogerado
 - [x] A API deve permitir a exclusão de um cadastro através do id autogerado
-```
+
 
 ### Tecnologias e dependências
 
@@ -40,15 +39,15 @@ O projeto visa o mapeamento de atendimento psicológico a preços acessíveis e/
 
 
 Dependências:
-[nodemon](https://www.npmjs.com/package/nodemon)
-[bcrypt](https://www.npmjs.com/package/bcrypt)
-[cors](https://www.npmjs.com/package/cors)
-[dotenv](https://www.npmjs.com/package/dotenv)
-[express](https://www.npmjs.com/package/express)
-[jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
-[mongoose](https://www.npmjs.com/package/mongoose)
-[swagger-autogen](https://www.npmjs.com/package/swagger-autogen)
-[swagger-ui-express](https://www.npmjs.com/package/swagger-ui-express)
+[nodemon](https://www.npmjs.com/package/nodemon) 
+[bcrypt](https://www.npmjs.com/package/bcrypt) 
+[cors](https://www.npmjs.com/package/cors) 
+[dotenv](https://www.npmjs.com/package/dotenv) 
+[express](https://www.npmjs.com/package/express) 
+[jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) 
+[mongoose](https://www.npmjs.com/package/mongoose) 
+[swagger-autogen](https://www.npmjs.com/package/swagger-autogen) 
+[swagger-ui-express](https://www.npmjs.com/package/swagger-ui-express) 
 
 ### Instalações
 
@@ -68,4 +67,15 @@ Caso esteja utilizando outro gerenciador de pacotes apenas altere o npm para seu
 
 ### Rotas/Endpoints
 
+Rotas        | 
+---------    | ------
+GET/all      | Lista todos os cadastros
+GET/location | Busca por região
+GET/service  | Busca por serviço oferecido
+POST/add     | Faz um novo cadastro
+PATCH/:id    | Atualiza cadastro existente
+DELETE/:id   | Deleta um cadastro 
+
 ### Autor
+
+<footer>Desenvolvido com 💜</footer>
