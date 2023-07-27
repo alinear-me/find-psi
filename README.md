@@ -17,10 +17,10 @@ Aplicação disponível [aqui](https://find-psi.onrender.com/find-psi-documentac
 ## Objetivo
 O projeto visa o mapeamento de atendimento psicológico a preços acessíveis e/ou gratuitos na cidade de São Paulo.
 
-#### Funcionalidades
+### Funcionalidades
 
 
-#### Tecnologias e dependências
+### Tecnologias e dependências
 
 [JavaScript](https://www.javascript.com/) | [Node.js](https://nodejs.org/en) | [Git](https://git-scm.com/) | [VSCode](https://code.visualstudio.com/) | [Mongodb](https://www.mongodb.com/pt-br) | [Postman](https://documenter.getpostman.com/view/16821311/UVRAHSEo)
 
@@ -36,9 +36,10 @@ Dependências:
 [swagger-autogen](https://www.npmjs.com/package/swagger-autogen)
 [swagger-ui-express](https://www.npmjs.com/package/swagger-ui-express)
 
-#### Instalações
+### Instalações
 
 ```
+<code class="lang-markdown">
 $ git clone https://github.com/alinear-me/find-psi
 
 # Entrar na pasta do repositório
@@ -49,9 +50,10 @@ $ npm install
 
 # Executar o servidor
 $ npm start
+</code>
 ```
 Caso esteja utilizando outro gerenciador de pacotes apenas altere o npm para seu respectivo instalador.
 
-#### Rotas/Endpoints
+### Rotas/Endpoints
 
-#### Autor
+### Autor
