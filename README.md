@@ -22,24 +22,36 @@ O projeto visa o mapeamento de atendimento psicológico a preços acessíveis e/
 
 ### Tecnologias e dependências
 
-[JavaScript](https://www.javascript.com/) | [Node.js](https://nodejs.org/en) | [Git](https://git-scm.com/) | [VSCode](https://code.visualstudio.com/) | [Mongodb](https://www.mongodb.com/pt-br) | [Postman](https://documenter.getpostman.com/view/16821311/UVRAHSEo)
+[JavaScript](https://www.javascript.com/) 
+[Node.js](https://nodejs.org/en) 
+[Git](https://git-scm.com/) 
+[VSCode](https://code.visualstudio.com/) 
+[Mongodb](https://www.mongodb.com/pt-br) 
+[Postman](https://documenter.getpostman.com/view/16821311/UVRAHSEo)
 
 Dependências:
 
 [nodemon](https://www.npmjs.com/package/nodemon)
+
 [bcrypt](https://www.npmjs.com/package/bcrypt)
+
 [cors](https://www.npmjs.com/package/cors)
+
 [dotenv](https://www.npmjs.com/package/dotenv)
+
 [express](https://www.npmjs.com/package/express)
+
 [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
+
 [mongoose](https://www.npmjs.com/package/mongoose)
+
 [swagger-autogen](https://www.npmjs.com/package/swagger-autogen)
+
 [swagger-ui-express](https://www.npmjs.com/package/swagger-ui-express)
 
 ### Instalações
 
-```
-<code class="lang-markdown">
+```javascript
 $ git clone https://github.com/alinear-me/find-psi
 
 # Entrar na pasta do repositório
@@ -50,7 +62,6 @@ $ npm install
 
 # Executar o servidor
 $ npm start
-</code>
 ```
 Caso esteja utilizando outro gerenciador de pacotes apenas altere o npm para seu respectivo instalador.
 
