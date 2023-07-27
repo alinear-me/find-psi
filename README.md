@@ -1,4 +1,4 @@
-![imagem disponível em freepik](https://stock.adobe.com/br/images/id/422792693?get_facets=1&order=relevance&safe_search=1&k=psicologia&clickref=1100lwWZzWCm&mv=affiliate&mv2=Freepik&as_camptype=&as_channel=affiliate&as_source=partnerize&as_campaign=Freepik&as_content=api&as_audience=srp&sdid=6WTV6YJ5)
+![](../imgpsico.jpg"disponível em freepik")
 
 # Projeto Final | Find-Psi API | Encontre Psi - {Reprograma}  
 Projeto de conclusão do curso de Desenvolvimento Back-end com B3 Social | On22 da [{reprograma}](https://reprograma.com.br/)
